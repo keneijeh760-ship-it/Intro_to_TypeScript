@@ -1,12 +1,11 @@
 import React from 'react'
-'use client'
 
-const Hello = () => {
+const page = () => {
   return (
     <div>
-      
+      <h1>About</h1>
     </div>
   )
 }
 
-export default Hello
+export default page
